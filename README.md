@@ -1,3 +1,3 @@
 # Simple-Web-Server
 
-Small CPP web server in one file. Supports Get, Head and Put requests.
+Small web server in a single pure CPP file. Supports Get, Head and Put requests.
